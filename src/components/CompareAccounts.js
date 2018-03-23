@@ -8,7 +8,6 @@ class CompareAccounts extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <div className="container">
           <div className="row">
             <div className="col">
               <div className="form-group">
@@ -29,7 +28,6 @@ class CompareAccounts extends React.Component {
               <button id="compare" className="btn btn-large btn-block btn-warning">Compare Accounts</button>
             </div>
           </div>
-        </div>
       </React.Fragment>
     )
   }

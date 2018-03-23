@@ -6,7 +6,7 @@ class StudentCards extends React.Component {
   }
   render() {
     return (
-        <div className="row mt-4 StudentCards">
+        <div className="row mt-4">
           <div id="user-1" className="col">
             <div className="row">
               <div className="col-4">
